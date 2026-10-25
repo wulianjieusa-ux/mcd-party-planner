@@ -1,0 +1,9 @@
+{
+  "address": "北京市海淀区中关村大街1号",
+  "people": [
+    {"name": "小明", "budget": 40, "avoid": ["辣"], "prefer": ["牛肉"], "drink": "cold"},
+    {"name": "小红", "budget": 35, "avoid": [], "prefer": ["鸡肉", "不辣"], "drink": "hot"},
+    {"name": "阿伟", "budget": 30, "avoid": ["鱼肉"], "prefer": ["辣"], "drink": "none"},
+    {"name": "小美", "budget": 45, "avoid": [], "prefer": ["素食", "甜"], "drink": "any"}
+  ]
+}
