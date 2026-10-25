@@ -34,7 +34,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-name>/mcd-party-planner.git
+git clone https://github.com/wulianjieusa-ux/mcd-party-planner.git
 cd mcd-party-planner
 # 零第三方依赖，Python 3.10+ 标准库即可运行
 python party_planner.py --demo --people demo_people.json
